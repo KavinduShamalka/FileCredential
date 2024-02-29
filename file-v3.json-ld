@@ -9,7 +9,7 @@
             "@context": {
             "@propagate": true,
             "@protected": true,
-            "polygon-vocab": "https://raw.githubusercontent.com/KavinduShamalka/Authentication/main/auth.md#",
+            "polygon-vocab": "https://raw.githubusercontent.com/KavinduShamalka/FileCredential/main/file.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "auth": {
             "@id": "polygon-vocab:hash",
