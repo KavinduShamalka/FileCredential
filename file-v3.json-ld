@@ -11,7 +11,7 @@
             "@protected": true,
             "polygon-vocab": "https://raw.githubusercontent.com/KavinduShamalka/FileCredential/main/file.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
-            "auth": {
+            "hash": {
             "@id": "polygon-vocab:hash",
             "@type": "xsd:string"
           }
