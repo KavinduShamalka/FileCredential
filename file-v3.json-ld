@@ -16,7 +16,7 @@
             "@type": "xsd:string"
           }
         },
-        "@id": "https://raw.githubusercontent.com/KavinduShamalka/Authentication/main/auth-v3.json-ld#UserAuthentication"
+        "@id": "https://raw.githubusercontent.com/KavinduShamalka/FileCredential/main/file-v3.json-ld#FileCredential"
       }
     }
   ]
